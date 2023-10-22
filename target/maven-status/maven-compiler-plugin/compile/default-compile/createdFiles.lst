@@ -1,3 +1,4 @@
 com\wcram\servlet_test\FormDataHandle.class
 com\wcram\servlet_test\resources\JakartaEE10Resource.class
+com\wcram\servlet_test\MyDataHandle.class
 com\wcram\servlet_test\JakartaRestConfiguration.class
